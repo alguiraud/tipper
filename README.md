@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<video src='https://i.imgur.com/cptDdt4.mp4' width='320' height='200'></video>
+<img src='https://i.imgur.com/cptDdt4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
