@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/cptDdt4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+My gif exceeds the file size for embedding. You can find it [here](https://i.imgur.com/cptDdt4.gif).
 
 ## Notes
 
